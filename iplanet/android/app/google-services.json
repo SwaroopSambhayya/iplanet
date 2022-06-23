@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "946111757185",
+    "project_id": "coffe-house-a3fda",
+    "storage_bucket": "coffe-house-a3fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946111757185:android:eb23fab46f256701814680",
+        "android_client_info": {
+          "package_name": "com.example.iplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946111757185-a8hrjsc77ikp8q3iu8in603tab8assne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RV61YcE1mJ22QrOGI-1jUvinc6LJgZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946111757185-a8hrjsc77ikp8q3iu8in603tab8assne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "946111757185-ebp5bdq9fo0m19eg2pq0ajskubo6n181.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iplanet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
