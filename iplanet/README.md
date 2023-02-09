@@ -2,7 +2,7 @@
 
 A planet exploration app built in Flutter
 
-![Dribbble shot HD - 1 (2)](https://user-images.githubusercontent.com/31922733/217735328-18e9c94f-ed4a-4af2-8e33-2650feadeecd.png)
+![Dribbble shot HD - 1 (3)](https://user-images.githubusercontent.com/31922733/217735532-031a89f0-5947-40df-8aee-fa8673539053.png)
 
 
 ## Getting Started
