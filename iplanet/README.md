@@ -1,6 +1,9 @@
 # iplanet
 
-A new Flutter project.
+A planet exploration app built in Flutter
+
+![Dribbble shot HD - 1 (2)](https://user-images.githubusercontent.com/31922733/217735328-18e9c94f-ed4a-4af2-8e33-2650feadeecd.png)
+
 
 ## Getting Started
 
